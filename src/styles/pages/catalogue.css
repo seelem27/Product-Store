@@ -1,0 +1,15 @@
+.image-section {
+    border-right: 1px solid black;
+    height: 637px;
+    position: fixed;
+    padding: 20px;
+}
+
+.form-section {
+    padding-top: 20px;
+}
+
+.category-section {
+    display: flex;
+    flex-direction: column;
+}
